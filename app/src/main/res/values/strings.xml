@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">ActivitySwitcher</string>
+  <string name="start_button_text">Switch to Bla Bla</string>
+  <string name="start_camera_text">Take picture</string>
+</resources>
