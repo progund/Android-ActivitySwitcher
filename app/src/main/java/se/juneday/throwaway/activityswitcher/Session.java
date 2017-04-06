@@ -1,14 +1,13 @@
 package se.juneday.throwaway.activityswitcher;
 
-/**
- * Created by hesa on 4/3/17.
- */
 
 public class Session {
 
   private static Session session;
 
   public User currentUser;
+
+  private Session() {}
 
   static {
     session = new Session();
